@@ -1,0 +1,3 @@
+/Users/spacrocket/ray-tracing/cmake-build-debug/CMakeFiles/simple_example.dir
+/Users/spacrocket/ray-tracing/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/spacrocket/ray-tracing/cmake-build-debug/CMakeFiles/rebuild_cache.dir

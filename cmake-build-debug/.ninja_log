@@ -1,0 +1,5 @@
+# ninja log v5
+0	531	1687723394899934462	CMakeFiles/simple_example.dir/main.cpp.o	d7d2414d696827f1
+533	579	1687723394950107164	simple_example	4c135bb6db9401d
+2	474	1687812700383571759	CMakeFiles/simple_example.dir/main.cpp.o	486ebba5d2572eb2
+474	561	1687812700473750065	simple_example	4c135bb6db9401d
